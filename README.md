@@ -1,3 +1,1 @@
 # chair-website
-
-#smth
