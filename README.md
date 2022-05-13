@@ -1,2 +1,3 @@
 # chair-website
-https://viacheslavvolyanuk.github.io/chair-website/
+
+https://viacheslavvolianiuk.github.io/chair-website/
